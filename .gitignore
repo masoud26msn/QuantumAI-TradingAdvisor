@@ -1,0 +1,8 @@
+# Ignore environment variables file
+.env
+env/
+__pycache__/
+*.pyc
+.DS_Store
+signals_history.json
+
